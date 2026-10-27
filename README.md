@@ -32,7 +32,7 @@ conda activate taller_dvc
 
 Para que puedas subir tus cambios a GitHub y conectar DAGsHub sin problemas de permisos, necesitas tu propio repositorio. **No clones el repositorio original directamente.**
 
-1. Ve al repositorio base del taller: `https://github.com/TU_USUARIO_ORIGINAL/taller-conisoft-2026`
+1. Ve al repositorio base del taller: `https://github.com/Tofasemix/taller-conisoft-2026`
 2. En la esquina superior derecha de GitHub, haz clic en el botón **Fork** (Bifurcar) y luego en **Create fork**. Esto creará una copia exacta del proyecto en tu propia cuenta.
 3. Ahora, abre tu terminal y clona **tu** nueva copia (cambia `TU_USUARIO` por tu usuario de GitHub):
 
